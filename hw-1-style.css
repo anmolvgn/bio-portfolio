@@ -1,0 +1,47 @@
+body {
+	background-color: beige;
+}
+
+#name {
+	font-size: 22pt;
+	color: black;
+}
+
+#profilepic1{
+	display: block;
+	float: center;
+}
+
+#intro{
+	font-family: "Times New Roman", serif;
+	font-size: 14pt;
+	line-height: 1.0em;
+	overflow: auto;
+	width: 25%;
+	float: right;
+	top: 10%;
+	right: 10%;
+	clear: both;
+	border: 5px;
+	padding: 5px;
+}
+
+#Portfolio{
+	clear: right;
+	float: center;
+	top: 10%;
+	right: 10%;
+	border: 5px;
+	padding: 5px;
+}
+
+footer {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 14pt;
+	background-color: lightblue;
+	padding: 10px;
+	top-border: 10px;
+	text-align: center;
+	clear: both;
+}
